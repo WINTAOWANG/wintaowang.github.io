@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEng, Sun Yat-sen University, China, 2022
+* Ph.D in Civil Engineering, The Hong Kong Polytechnial University, 2026 (expected)
 
 Work experience
 ======
@@ -36,7 +35,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Journal Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+International conference experience
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
