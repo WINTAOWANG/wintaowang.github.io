@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BEng, Sun Yat-sen University, China, 2022
+* BEng in Civil Engineering, Sun Yat-sen University, China, 2022
 * Ph.D in Civil Engineering, The Hong Kong Polytechnial University, 2026 (expected)
 
 Work experience
@@ -41,7 +41,7 @@ Journal Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-International conference experience
+Peer-reviewed International Conference Paper
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
