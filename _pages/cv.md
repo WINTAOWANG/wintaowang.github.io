@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BEng in Civil Engineering, Sun Yat-sen University, China, 2022
-* Ph.D in Civil Engineering, The Hong Kong Polytechnial University, 2026 (expected)
+* BEng in Civil Engineering, Sun Yat-sen University, China, 2022. Supervisor: Prof. Jing YU and Prof. Jihui Zhao.
+* Ph.D in Civil Engineering, The Hong Kong Polytechnic University, 2026 (expected). Supervisor: Prof. Jian-Guo Dai.
 
 Work experience
 ======
