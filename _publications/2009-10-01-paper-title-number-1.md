@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: September 18–22, 2023
 venue: 'The 16th International Congress on the Chemistry of Cement 2023 (ICCC2023)'
 paperurl: 'http://wintaowang.github.io/files/paper1.pdf'
-citation: 'Tao WANG, Jing YU & J.G. Dai. (2023). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Tao WANG, Jing YU & J.G. Dai. (2023). &quot;Development of Seawater Sea-sand Engineered Geopolymer Composites (SS-EGC) Number 1.&quot; <i>The 16th International Congress on the Chemistry of Cement 2023 (ICCC2023)</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
