@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BEng in Civil Engineering, Sun Yat-sen University, China, 2022. Supervisor: Prof. Jing YU and Prof. Jihui Zhao.
-* Ph.D in Civil Engineering, The Hong Kong Polytechnic University, 2026 (expected). Supervisor: Prof. Jian-Guo Dai.
+* BEng in Civil Engineering, Sun Yat-sen University, China, 2022. Supervisor: Prof. Jing Yu (now assistant professor at HKU) and Prof. Jihui Zhao.
+* Ph.D in Civil and Environmental Engineering, The Hong Kong Polytechnic University, 2026 (expected). Supervisor: Prof. Dangyuan Lei and Prof. Jian-Guo Dai (Chair professor at CityU).
 
 Work experience
 ======
@@ -28,12 +28,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Common programming languages: C++, Python, MATLAB ...
+* Artificial intelligence
+  * Computer vision
+  * Natural language processing
   * Sub-skill 2.3
-* Skill 3
+* Advanced Coating design and fabrication
+* Nanophotonics
+* Heat transfer
+* Building envelopes
+* English presentation and talking
 
 Journal Publications
 ======
